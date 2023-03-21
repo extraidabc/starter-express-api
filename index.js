@@ -1,6 +1,5 @@
 const express = require("express");
 const app = express();
-const dotenv = require("dotenv");
 const nodemailer = require("nodemailer");
 const cors = require("cors");
 
